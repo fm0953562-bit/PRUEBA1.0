@@ -8,7 +8,7 @@ function App() {
       <h1>OTRA PRUEBA</h1>
 
       <p>Mi primera página con React</p>
-      <button>BIENVENIDO</button>
+      <button>BIENVENIDO</button> <button> ATRAS</button>
       <h5>HAZ CLICK PARA COMENZAR</h5>
     </div>
   )
